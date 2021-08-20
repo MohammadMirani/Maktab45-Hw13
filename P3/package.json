@@ -1,0 +1,17 @@
+{
+  "name": "p3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
