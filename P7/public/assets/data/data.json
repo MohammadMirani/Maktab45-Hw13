@@ -1,0 +1,56 @@
+[
+    {
+        "name": "car1",
+        "id": "1",
+        "produce": "2019",
+        "price": "81000$",
+        "company": "BMW",
+        "color": "red",
+        "image": "../assets/images/image1.jpg"
+    },
+    {
+        "name": "car2",
+        "id": "2",
+        "produce": "2020",
+        "price": "48000$",
+        "company": "MOSTANG",
+        "color": "blue",
+        "image": "../assets/images/image2.jpg"
+    },
+    {
+        "name": "car3",
+        "id": "3",
+        "produce": "2021",
+        "price": "63000$",
+        "company": "BUGATI",
+        "color": "green",
+        "image": "../assets/images/image3.jpg"
+    },
+    {
+        "name": "car4",
+        "id": "4",
+        "produce": "2014",
+        "price": "45000$",
+        "company": "CHEVERLOT",
+        "color": "blue",
+        "image": "../assets/images/image4.jpg"
+    },
+    {
+        "name": "car5",
+        "id": "5",
+        "produce": "2018",
+        "price": "35000$",
+        "company": "FORD",
+        "color": "purple",
+        "image": "../assets/images/image5.jpg"
+    },
+    {
+        "name": "car6",
+        "id": "6",
+        "produce": "2012",
+        "price": "26000$",
+        "company": "AUDI",
+        "color": "yellow",
+        "image": "../assets/images/image6.jpg"
+    }
+]
